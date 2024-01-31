@@ -1,3 +1,1 @@
-En este repositorio subiré vídeos con tutoriales sobre Data Science. De momento:
-
-Tutorial de Gretl.
+This repository will contain several jupyter notebooks related to data science contents for teaching, for example machine learning and econometrics.
